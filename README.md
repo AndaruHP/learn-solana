@@ -1,1 +1,1 @@
-Learn all of these from cyfrin updraft :D
+Learn all of these from cyfrin updraft :p
