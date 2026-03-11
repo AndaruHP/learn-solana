@@ -1,0 +1,17 @@
+[package]
+name = "hello"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+solana-program = "4.0.0"
+signature = "3.0.0-rc.10"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+
+[dev-dependencies]
+litesvm = "0.7"
+solana-sdk = "2.3"
+solana-client = "2.3"
+solana-transaction-status-client-types = "2.3"
